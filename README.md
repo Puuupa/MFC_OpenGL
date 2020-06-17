@@ -1,2 +1,2 @@
 # MFC_OpenGL
-wulululululuu
+参考文献是learnopengl-cn.github.io哦!
